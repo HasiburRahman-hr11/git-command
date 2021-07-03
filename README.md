@@ -1,4 +1,3 @@
-# git-command
 Git Commands
 ============
 
